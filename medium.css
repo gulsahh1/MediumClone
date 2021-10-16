@@ -1,0 +1,23 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+
+.bg-color{
+    background-color: #C4E2FF;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41,41, 1);
+}
+
+.btn-1{
+    border-radius: 18px;
+}
+
+.aside-btn>li{
+    margin-bottom: 10px;
+}
+
+.border-top-dark{
+    border-top: 2px solid rgb(230, 230, 230);
+}
